@@ -1,0 +1,14 @@
+{
+  "secret": "8a19a2ce-d655-4d9b-af27-8a1c412addff",
+  "namespaces": [
+    {
+      "name": "public",
+      "publish": true,
+      "watch": true,
+      "presence": true,
+      "join_leave": true,
+      "history_size": 10,
+      "history_lifetime": 30
+    }
+  ]
+}
